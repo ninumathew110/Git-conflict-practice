@@ -3,7 +3,7 @@ package Sample;
 public class Test {
 
 	public static void main(String[] args) {
-	System.out.println("Program tested");
+	System.out.println("Program edit in github");
 
 	}
 
